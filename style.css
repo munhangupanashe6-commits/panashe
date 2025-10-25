@@ -1,0 +1,55 @@
+body{
+    background-image: url("nature.PNG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-shadow: 0px 5px 0px chartreuse;
+    color: blue;white-space-collapse;
+    font-size: 32px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    border: outset;
+    border-width: 5px;
+    border-color:white;
+    border-image: auto;
+    padding: 5px;
+ 
+        
+    }
+    
+}
+
+p1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-decoration-line: underline;
+    padding: 5px;
+
+}
+p2{
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+}
+a:link{
+    color: rgb(215, 34, 64);
+}
+a:visited{
+    color: blue;
+
+}
+a:hover{
+    color: lawngreen;
+}
+button:hover{
+    color: greenyellow;
+
+}
+button:active{
+    background-color: aqua;
+}
